@@ -18,6 +18,12 @@
 
 <h3>🛠 Languages and Tools :</h3>
 <p>
+  <!-- Shapr3D -->
+   <a href="https://github.com/alanasalgorithms" >
+   <img src="https://apprecs.org/ios/images/app-icons/256/06/1091675654.jpg" width="40" height="40"/></a>  
+  <!-- Unity -->
+   <a href="https://github.com/alanasalgorithms" >
+   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="40" height="40"/></a>  
    <!-- Vs Code -->
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
   <!-- Replit -->
@@ -31,7 +37,7 @@
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
    <!-- Python -->
    <a href="https://github.com/alanasalgorithms" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"    height="40"/></a>
    <!-- JavaScript -->
    <a href="https://github.com/alanasalgorithms" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
