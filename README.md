@@ -11,7 +11,7 @@
 - 🌱 I’m learning **about how I can get into machine learning 😤**
 - 💬 Ask me about **[my glow up! 🌟](https://www.instagram.com/glowupwithalana/)**
 - 😍 I love skin care, AI, and everything self care 
-- ⚡ Fun fact: Astronauts use linux because you can't open windows in space
+- ⚡ Fun fact: Using sunscreen everyday won't only save your skin but it can also save your life!
 - 📫 Reach me ***[through email](mailto:alana.burrell@spelman.edu)***
 - 🍵 Buy me a ***[coffee](https://www.buymeacoffee.com/alanasalgorithm)***
 
