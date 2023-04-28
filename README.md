@@ -1,7 +1,7 @@
 ### Hi there I'm
 
 <h3 align="center"><a href="https://www.linkedin.com/in/alanasalgorithms/">
-   <img alt="Alana Burrell" src="https://readme-typing-svg.herokuapp.com/?Code&duration=4000&pause=1000&width=835&lines=Alana+Burrell;Scholar,+ML+Engineer,+Founder&font=Fira%20Code&width=800&height=65&color=FF77BC&vCenter=true&size=40"></a>
+   <img alt="Alana Burrell" src="https://readme-typing-svg.herokuapp.com/?Code&duration=4000&pause=1000&center=true&vCenter=true&width=835&lines=Alana+Burrell;Scholar,+ML+Engineer,+Founder&font=Fira%20Code&width=800&height=65&color=FF77BC&vCenter=true&size=40"></a>
   
 </h3>
 
