@@ -19,7 +19,6 @@
 <h3>🛠 Languages and Tools :</h3>
 <p>
    <!-- Vs Code -->
-   <a href="https://github.com/alanasalgorithms" >
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
   <!-- Replit -->
    <a href="https://github.com/alanasalgorithms" >
