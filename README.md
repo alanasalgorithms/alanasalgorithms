@@ -13,7 +13,7 @@
 - 😍 I love skin care, AI, and everything self care 
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
 - 📫 Reach me ***[through email](mailto:alana.burrell@spelman.edu)***
-- 🍵 You may buy me a ***[coffee](https://www.buymeacoffee.com/alanasalgorithm)***
+- 🍵 Buy me a ***[coffee](https://www.buymeacoffee.com/alanasalgorithm)***
 
 
 <h3>🛠 Languages and Tools :</h3>
