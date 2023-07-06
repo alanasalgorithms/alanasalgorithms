@@ -16,7 +16,7 @@
 - ☕️ Buy me a ***[coffee](https://www.buymeacoffee.com/alanasalgorithm)***
 
 
-<h3>🛠 Languages and Tools :</h3>
+<h3>🛠 Languages and Tools I use :</h3>
 <p>
   <!-- Shapr3D -->
    <a href="https://github.com/alanasalgorithms" >
