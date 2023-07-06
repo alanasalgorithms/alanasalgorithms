@@ -13,7 +13,7 @@
 - 😍 I love skin care, AI, and everything self care 
 - ⚡ Fun fact: Using sunscreen everyday won't only save your skin but it can also save your life!
 - 📫 Reach me ***[through email](mailto:alana.burrell@spelman.edu)***
-- 🍵 Buy me a ***[coffee](https://www.buymeacoffee.com/alanasalgorithm)***
+- ☕️ Buy me a ***[coffee](https://www.buymeacoffee.com/alanasalgorithm)***
 
 
 <h3>🛠 Languages and Tools :</h3>
