@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **about prospective Software &| ML roles in my city 😤**
 - 💬 Ask me about **[my glow up! 🌟](https://www.instagram.com/glowupwithalana/)**
 - 😍 I love skin care, AI, and everything self care 
-- ⚡ Fun fact: Using sunscreen everyday won't only save your skin but it can also save your life!
+- ⚡ Fun fact: I'm a Healthcare Technology Start-up founder and I started my business in 2022
 - 📫 Reach me ***[through email](mailto:alana.burrell@spelman.edu)***
 - ☕️ Buy me a ***[coffee](https://www.buymeacoffee.com/alanasalgorithm)***
 
