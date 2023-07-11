@@ -8,7 +8,7 @@
 <h3>🔎 About me :</h3>
 
 - 👩🏾‍💻 I’m currently working on ***[school & personal projects](https://replit.com/@alanasalgorithm)***
-- 🌱 I’m currently learning **about prospective ML roles in my city 😤**
+- 🌱 I’m currently learning **about prospective Software &| ML roles in my city 😤**
 - 💬 Ask me about **[my glow up! 🌟](https://www.instagram.com/glowupwithalana/)**
 - 😍 I love skin care, AI, and everything self care 
 - ⚡ Fun fact: Using sunscreen everyday won't only save your skin but it can also save your life!
