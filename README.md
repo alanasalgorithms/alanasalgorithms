@@ -16,6 +16,9 @@
 - 📫 Reach me ***[through email](mailto:alana.burrell@spelman.edu)***
 - ☕️ Buy me a ***[coffee](https://www.buymeacoffee.com/alanasalgorithm)***
 
+
+
+
 <h3> Connect with me :</h3>
 <p align="left" dir="auto">
   <a href="https://twitter.com/alanasalgorithm" rel="nofollow">
@@ -31,6 +34,8 @@
     <img align="center" alt="ARJ's Website" height="30" width="30" src="https://camo.githubusercontent.com/1b2dd6a86187f52c7a8a9561f36dc48797b7ae32a9705768f23e4328c864da76/68747470733a2f2f7777772e6e696365706e672e636f6d2f706e672f66756c6c2f3132382d313238353038365f677265656e2d69636f6e2d636f64652d6261636b2d666c61742d69636f6e2d706e672e706e67" data-canonical-src="https://www.nicepng.com/png/full/128-1285086_green-icon-code-back-flat-icon-png.png" style="max-width: 100%;">
   </a>
 </p>
+
+
 
 
 <h3>🛠 Languages and Tools I use :</h3>
