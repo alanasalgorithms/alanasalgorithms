@@ -1,5 +1,4 @@
-<img style="-webkit-user-select:none; display:inline; width:20px; margin:auto; padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-### Hi there I'm
+<img style="-webkit-user-select:none; display:inline; width:20px; margin:auto; padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> ### Hi there I'm
 
 
 <h3 align="center"><a href="https://www.linkedin.com/in/alanasalgorithms/">
