@@ -37,7 +37,7 @@
 
 
 
-<h3>🛠 Languages and Tools I use :</h3>
+<h3>🛠 My TechStack :</h3>
 <p>
   <!-- Shapr3D -->
    <a href="https://github.com/alanasalgorithms" >
@@ -65,9 +65,6 @@
    <!-- Html -->
    <a href="https://github.com/alanasalgorithms" >
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>
-   <!-- Ubuntu -->
-   <a href="https://github.com/alanasalgorithms" >
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" height="40"/></a>
    <!-- Git -->
    <a href="https://github.com/alanasalgorithms" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
