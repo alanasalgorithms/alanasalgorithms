@@ -3,7 +3,6 @@
 
 <h3 align="center"><a href="https://www.linkedin.com/in/alanasalgorithms/">
    <img alt="Alana Burrell" src="https://readme-typing-svg.herokuapp.com/?Code&duration=3000&pause=800&center=true&vCenter=true&width=835&lines=Alana+Burrell;Scholar,+ML+Engineer,+Founder&font=Fira%20Code&width=800&height=65&color=FF77BC&vCenter=true&size=40"></a>
-  
 </h3>
 
 <h3>🔎 About me :</h3>
@@ -22,10 +21,10 @@
 <h3>🤝 Connect with me :</h3>
 <p align="left" dir="auto">
   <a href="https://twitter.com/alanasalgorithm" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvaj2160" height="30" width="30" style="max-width: 100%;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AlanasAlgorithms" height="30" width="30" style="max-width: 100%;">
   </a>
   <a href="https://www.linkedin.com/in/alanasalgorithms/" rel="nofollow">
-    <img align="center" alt="ARJ's LinkedIN" height="30" width="30" src="https://camo.githubusercontent.com/a3fae32074b48d2062d743fa22eb5cf8318d187dc7363d14c7b1dbd68e47f641/68747470733a2f2f63646e2e63646e6c6f676f2e636f6d2f6c6f676f732f6c2f31352f6c696e6b6564696e2d323031332e737667" data-canonical-src="https://cdn.cdnlogo.com/logos/l/15/linkedin-2013.svg" style="max-width: 100%;">
+    <img align="center" alt="Alana's LinkedIN" height="30" width="30" src="https://camo.githubusercontent.com/a3fae32074b48d2062d743fa22eb5cf8318d187dc7363d14c7b1dbd68e47f641/68747470733a2f2f63646e2e63646e6c6f676f2e636f6d2f6c6f676f732f6c2f31352f6c696e6b6564696e2d323031332e737667" data-canonical-src="https://cdn.cdnlogo.com/logos/l/15/linkedin-2013.svg" style="max-width: 100%;">
   </a>
   <a href="https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=dda30d9823a044aa" rel="nofollow">
     <img align="center" alt="ARJ's Spotify" height="30" width="30" src="https://camo.githubusercontent.com/5fcc25646b57ce48c0f971965c618605f0cd5418435d3875fbdf00c8dd951eae/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f73706f746966792d6c6f676f2d706e672f73706f746966792d646f776e6c6f61642d6c6f676f2d33302e706e67" data-canonical-src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" style="max-width: 100%;">
