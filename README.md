@@ -1,10 +1,11 @@
 ### Hi there I'm
-<img height="25" src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" style="max-width: '20'; display: inline-block;" data-target="animated-image.originalImage">
+
 
 <h3 align="center"><a href="https://www.linkedin.com/in/alanasalgorithms/">
    <img alt="Alana Burrell" src="https://readme-typing-svg.herokuapp.com/?Code&duration=3000&pause=800&center=true&vCenter=true&width=835&lines=Alana+Burrell;Scholar,+ML+Engineer,+Founder&font=Fira%20Code&width=800&height=65&color=FF77BC&vCenter=true&size=40"></a>
   
 </h3>
+<img style="-webkit-user-select:none; display:block; width:50px; margin:auto; padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
 <h3>🔎 About me :</h3>
 
