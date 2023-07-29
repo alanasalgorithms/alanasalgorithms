@@ -12,7 +12,7 @@
 - 💬 Ask me about **[my glow up! 🌟](https://www.instagram.com/glowupwithalana/)**
 - 😍 I love skin care, AI, and everything self care 
 - ⚡ Fun fact: I'm a Healthcare Technology Start-up founder and I started my business in 2022
-- 📫 Reach me ***[through email](mailto:alana.burrell@spelman.edu)***
+- 📫 Reach me ***[through email](mailto:aburrel7@gatech.edu)***
 - ☕️ Buy me a ***[coffee](https://www.buymeacoffee.com/alanasalgorithm)***
 
 
@@ -29,6 +29,7 @@
   <a href="https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=dda30d9823a044aa" rel="nofollow">
     <img align="center" alt="Alana's 2022 Spotify Unwrapped" height="30" width="30" src="https://camo.githubusercontent.com/5fcc25646b57ce48c0f971965c618605f0cd5418435d3875fbdf00c8dd951eae/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f73706f746966792d6c6f676f2d706e672f73706f746966792d646f776e6c6f61642d6c6f676f2d33302e706e67" data-canonical-src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" style="max-width: 100%;">
   </a>
+   
    <a href="linkedin.com/in/alanasalgorithms" rel="nofollow">
     <img align="center" alt="Alana's Website" height="30" width="30" src="https://html-starter-rouge-one.vercel.app" data-canonical-src="https://www.nicepng.com/png/full/128-1285086_green-icon-code-back-flat-icon-png.png" style="max-width: 100%;">
   </a>
