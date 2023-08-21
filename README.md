@@ -12,7 +12,7 @@
 - 💬 Ask me about **[my glow up! 🌟](https://www.instagram.com/glowupwithalana/)**
 - 😍 I love skin care, AI, and everything self care 
 - ⚡ Fun fact: I'm a Healthcare Technology Start-up founder and I started my business in 2022
-- 📫 Reach me ***[through email](mailto:aburrel7@gatech.edu)***
+- 📫 Reach me ***[through email](mailto:aburrell7@gatech.edu)***
 - ☕️ Buy me a ***[coffee](https://www.buymeacoffee.com/alanasalgorithm)***
 
 
