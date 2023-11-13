@@ -31,7 +31,7 @@
   </a>
    
    <a href="linkedin.com/in/alanasalgorithms" rel="nofollow">
-    <img align="center" alt="Alana's Website" height="30" width="30" src="https://html-starter-rouge-one.vercel.app" data-canonical-src="https://www.nicepng.com/png/full/128-1285086_green-icon-code-back-flat-icon-png.png" style="max-width: 100%;">
+<!--     <img align="center" alt="Alana's Website" height="30" width="30" src="https://html-starter-rouge-one.vercel.app" data-canonical-src="https://www.nicepng.com/png/full/128-1285086_green-icon-code-back-flat-icon-png.png" style="max-width: 100%;"> -->
   </a>
 </p>
 
