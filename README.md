@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/alanasalgorithms/" rel="nofollow">
     <img align="center" alt="Alana's LinkedIN" height="30" width="30" src="https://camo.githubusercontent.com/a3fae32074b48d2062d743fa22eb5cf8318d187dc7363d14c7b1dbd68e47f641/68747470733a2f2f63646e2e63646e6c6f676f2e636f6d2f6c6f676f732f6c2f31352f6c696e6b6564696e2d323031332e737667" data-canonical-src="https://cdn.cdnlogo.com/logos/l/15/linkedin-2013.svg" style="max-width: 100%;">
   </a>
-  <a href="https://open.spotify.com/playlist/449RfwVFD413bYolA3l7d1?si=95f6111455f5461b" rel="nofollow">
+  <a href="https://open.spotify.com/playlist/7nqFxn8Ej0Tbc72iG5dkUR?si=025f7588071148ac" rel="nofollow">
     <img align="center" alt="Alana's 2022 Spotify Unwrapped" height="30" width="30" src="https://camo.githubusercontent.com/5fcc25646b57ce48c0f971965c618605f0cd5418435d3875fbdf00c8dd951eae/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f73706f746966792d6c6f676f2d706e672f73706f746966792d646f776e6c6f61642d6c6f676f2d33302e706e67" data-canonical-src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" style="max-width: 100%;">
   </a>
    
