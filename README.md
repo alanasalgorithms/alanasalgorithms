@@ -51,7 +51,7 @@ To enhance my candidacy and expertise further, I plan to achieve at least two ad
    <h3>Developing a UV Index Meter to Measure Solar Intensity </h3>
       <!-- Developing a UV Index Meter to Measure Solar Intensity -->
    <a href="https://www.canva.com/design/DAFfvpvhTdM/nlwgQ3FmWJvdrza_kKBmog/edit?utm_content=DAFfvpvhTdM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+   <img src="UVIndex.png" alt="Git" width="40" height="40"/></a>
 
 <h3> My Resume :</h3>
    <a href="https://docs.google.com/document/d/e/2PACX-1vSt0f-krbpGofgDWBQaKKxGasr6KcFH_rU3lTlciZeVaqMe9zNiDdUW5L7OFKibBSaJSKBWGJcXDzdV/pub" > 
