@@ -55,6 +55,7 @@ To enhance my candidacy and expertise further, I plan to achieve at least two ad
 
 <h3> My Resume :</h3>
    <a href="https://docs.google.com/document/d/e/2PACX-1vSt0f-krbpGofgDWBQaKKxGasr6KcFH_rU3lTlciZeVaqMe9zNiDdUW5L7OFKibBSaJSKBWGJcXDzdV/pub" > 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 
 <h3>🤝 Connect with me :</h3>
 <p align="left" dir="auto">
