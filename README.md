@@ -1,3 +1,6 @@
+
+<img src="Alana_Author_HD_Headshot.jpeg" alt="Git" width="200" height="220"/></a>
+
 <img style="-webkit-user-select:none; display:inline; width:20px; margin:auto; padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi there I'm
 
 
@@ -9,7 +12,7 @@
    
 <h3>Summary:</h3>
 Hello, welcome to my portfolio. In this site I have compiled my experience, projects,  and education to give a summary of myself. I am planning to use this portfolio to market myself to prospective employers and to give out when connecting or networking with other people. 
-<img src="Alana_Author_HD_Headshot.jpeg" alt="Git" width="200" height="220"/></a>
+
 <h3>🔎 About me :</h3>
 
 I am a Georgia native that graduated from Tucker High School. I’ve spent my entire life living in Georgia. I have attended 3 major colleges within the metro Atlanta area and I am proud to represent them all. I am an aspiring machine learning engineer who chose my journey when I started college. I was initially intimidated by math courses but after being tasked with completing a math course to study business marketing (my original college major) I realized this was a task that would never go away. I worked as hard as I possibly could to study and cover the content for this math course(college algebra) and eventually I realized that math is not all that bad. After completing my first semester I asked my math professor to write a recommendation letter for me to receive a scholarship. He agreed but he wondered why I didn’t choose engineering as my major. I told him about how I felt about math and he revealed that I topped my class for overall grades and the final exam. I didn’t miss a single question. Before this, I always believed that I wasn’t capable of learning technical topics especially anything relevant to math. But after this meeting I was inspired to see myself for more than what I’d previously known. I decided to pursue engineering as my major. From there I graduated GSU-PC with an AS in Engineering and from Spelman College with a BS in Computer Science. I am now attending GA Tech to receive my BS in Computer Engineering.
