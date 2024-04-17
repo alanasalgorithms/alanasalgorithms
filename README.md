@@ -5,6 +5,10 @@
    <img alt="Alana Burrell" src="https://readme-typing-svg.herokuapp.com/?Code&duration=3000&pause=800&center=true&vCenter=true&width=835&lines=Alana+Burrell;Scholar,+ML+Engineer,+Founder&font=Fira%20Code&width=800&height=65&color=FF77BC&vCenter=true&size=40"></a>
 </h3>
 
+
+   <img src="Alana_Author_HD_Headshot.jpeg" alt="Git" width="150" height="100"/></a>
+
+   
 <h3>Summary:</h3>
 Hello, welcome to my portfolio. In this site I have compiled my experience, projects,  and education to give a summary of myself. I am planning to use this portfolio to market myself to prospective employers and to give out when connecting or networking with other people. 
 
