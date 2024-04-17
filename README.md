@@ -27,7 +27,7 @@ In the next five years, my primary career goal is to establish myself as a profi
 To enhance my candidacy and expertise further, I plan to achieve at least two additional certifications in areas like AI and big data analytics, which I estimate will cost an additional $5,000. My strategic actions to transition effectively into my desired career include: 1) securing internships with leading tech firms to gain practical, hands-on experience; 2) attending industry conferences and networking events to connect with professionals and thought leaders in the field; and 3) consistently contributing to open-source projects to build a robust portfolio that demonstrates my skills and commitment to continuous learning. These steps will ensure that I not only meet but exceed the expectations of potential employers in the rapidly evolving tech landscape.
 
 <h3> My Resume :</h3>
-View my ***[resume]([https://www.buymeacoffee.com/alanasalgorithm](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:5d4a15d0-0a07-3f11-9c05-ad4126f2375d))***
+View my ***[resume](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:5d4a15d0-0a07-3f11-9c05-ad4126f2375d)***
 
 <h3>🤝 Connect with me :</h3>
 <p align="left" dir="auto">
