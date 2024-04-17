@@ -28,23 +28,29 @@ To enhance my candidacy and expertise further, I plan to achieve at least two ad
 
 
 <h3>My Projects:</h3>
+<h3>Sign Language Recognition using Transfer Learning and Auto Augmentation</h3>
    <!-- Sign Language Recognition using Transfer Learning and Auto Augmentation -->
-   <a href="https://github.com/alanasalgorithms" > 
+   <a href="https://www.canva.com/design/DAFcvGmcXD0/kA5ztVTeU1_5rI9x14V5aA/edit?utm_content=DAFcvGmcXD0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+   <h3>Brain Tumor Image Segmentation </h3>
       <!-- Brain Tumor Image Segmentation -->
-   <a href="https://github.com/alanasalgorithms" > 
+   <a href="https://www.canva.com/design/DAFfwqwFhOg/kuEL6MnwDYnd2g3ixXhrjA/edit?utm_content=DAFfwqwFhOg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+    <h3>Automatic Window Opener </h3>
       <!-- Automatic Window Opener -->
    <a href="https://github.com/alanasalgorithms" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+    <h3>MBED Video Game </h3>
       <!-- MBED Video Game -->
-   <a href="https://github.com/alanasalgorithms" > 
+   <a href="https://www.youtube.com/watch?v=B1HNAVHs9XE" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+    <h3>Utilizing Deep Learning to Close the Gap in Dermatologic Health Disparities </h3>
       <!-- Utilizing Deep Learning to Close the Gap in Dermatologic Health Disparities -->
-   <a href="https://github.com/alanasalgorithms" > 
+   <a href="https://www.canva.com/design/DAE9WbQzWKs/7tdcrp7nD4USPtSHDKVduQ/edit?utm_content=DAE9WbQzWKs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+   <h3>Developing a UV Index Meter to Measure Solar Intensity </h3>
       <!-- Developing a UV Index Meter to Measure Solar Intensity -->
-   <a href="https://github.com/alanasalgorithms" > 
+   <a href="https://www.canva.com/design/DAFfvpvhTdM/nlwgQ3FmWJvdrza_kKBmog/edit?utm_content=DAFfvpvhTdM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 
 <h3> My Resume :</h3>
