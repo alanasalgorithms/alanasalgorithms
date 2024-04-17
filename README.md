@@ -1,4 +1,3 @@
-
 <img src="Alana_Author_HD_Headshot.jpeg" alt="Git" width="200" height="220"/></a>
 
 <img style="-webkit-user-select:none; display:inline; width:20px; margin:auto; padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi there I'm
